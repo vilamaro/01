@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>oi</title>
+    </head>
+    <body>
+        <script>
+            alert("ALERTA DE VIRUS!!!!ALERTA DE VIRUS!!!!brincadeirinha rs")
+        </script>
+    </body>
+</html>
